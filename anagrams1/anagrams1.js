@@ -12,7 +12,7 @@ const  getSetsOfFiveAnagrams = () => {
   return array
 };
 
-window.addEventListener('load',getSetsOfFiveAnagrams)
+window.addEventListener('load',getSetsOfFiveAnagrams())
 
 //Bonus 2
 
